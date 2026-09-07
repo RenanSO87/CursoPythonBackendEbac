@@ -20,4 +20,3 @@ print("Contagem de elementos:", contador)
 for elemento, contagem in contador.items():
  if contagem >= item_majoritario:
   print("O elemento majoritário é:", elemento)
-  
